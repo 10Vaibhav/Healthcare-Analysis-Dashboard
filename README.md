@@ -1,4 +1,4 @@
-# Healthcare Emergency Room Analytics Dashboard
+# Healthcare Emergency Room Analysis Dashboard
 
 ## Interactive Power BI dashboard visualizing 9,216 emergency room visits with metrics on wait times, satisfaction, and patient demographics.
 Designed for healthcare administrators to optimize resources, improve patient experience, and make data-driven decisions through intuitive analysis of temporal trends and departmental utilization.
